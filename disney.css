@@ -1,0 +1,34 @@
+body{
+    background-color: #040714;
+}
+p{
+    color: white;
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    font-size: 23px;
+    margin-top: 95px;
+    margin-left: 65px;
+}
+img{
+    height: 11rem;
+    padding-top: 40px;
+    margin-left:11rem ;
+}
+button{
+    background-color:#6421ff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size:20px ;
+    padding: 20px;
+    height: 65px;
+    width: 30rem;
+    position: relative; top: 85px; right: 25rem;
+}
+
+.encanto img{
+    width: 40rem;
+    height: 30rem;
+    position: relative; left: 29rem; bottom: 23rem;
+    box-shadow: #040714;
+    border: solid 1px blue;
+}
